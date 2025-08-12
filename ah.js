@@ -1,5 +1,5 @@
 Array = [
-    'steveh1.mp3',
-    'steveh2.mp3',
-    'steveh3.mp3'
+    'Audio/steveah1.mp3',
+    'Audio/steveah2.mp3',
+    'Audio/steveah3.mp3'
 ];

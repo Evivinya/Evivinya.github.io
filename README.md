@@ -10,10 +10,9 @@
 <p>Just a button that randomly plays Steve Harrington's screams TEST | Elephant greenscreen effect</p>
 <button id="playRandomSound">Play Random Sound</button>
 <script>
-document.getElementById('playRandomSound').addEventListener('click', function() {
-    const sounds = Array;
-    const randomSound = sounds[Math.floor(Math.random() * sounds.length)];
-    const audio = new Audio(randomSound);
+document.getElementById('playRandom').addEventListener('click', function() {
+    const randomIndex = Math.floor(Math.random() * Array.length);
+    const audio = new Audio(Array[randomIndex]);
     audio.play();
 });
 </script>
