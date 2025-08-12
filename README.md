@@ -11,9 +11,9 @@
 <script>
 // Define your array of sound effect URLs
 const stevescream = [
-    'sounds/scream1.mp3',
-    'sounds/scream2.mp3',
-    'sounds/scream3.mp3'
+    'Audio/scream1.mp3',
+    'Audio/scream2.mp3',
+    'Audio/scream3.mp3'
     // Add more sound file paths as needed
 ];
 
