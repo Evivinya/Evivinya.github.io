@@ -11,8 +11,8 @@
 <script src="ah.js"></script>
 <script>
 document.getElementById('playRandom').addEventListener('click', function() {
-    const randomIndex = Math.floor(Math.random() * Array.length);
-    const audio = new Audio(Array[randomIndex]);
+    const randomIndex = Math.floor(Math.random() * stevescream.length);
+    const audio = new Audio(stevescream[randomIndex]);
     audio.play();
 });
 </script>
