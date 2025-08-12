@@ -7,7 +7,7 @@
 </head>
 <body>
 <p>Just a button that randomly plays Steve Harrington's screams TEST | Elephant greenscreen effect</p>
-<button id="playRandomSound">Play Random Sound</button>
+<button id="playRandom">Play Random Sound</button>
 <script src="ah.js"></script>
 <script>
 document.getElementById('playRandom').addEventListener('click', function() {
