@@ -1,6 +1,4 @@
 # Vihaan.github.io
-Just a button that randomly plays Steve Harrington's screams
-test
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,4 +8,6 @@ test
     <link rel="script" href="ah.js"/>
 </head>
 <body>
+Just a button that randomly plays Steve Harrington's screams
+test
 </body>
