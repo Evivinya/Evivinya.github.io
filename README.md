@@ -7,7 +7,7 @@
 </head>
 <body>
 <p>Just a button that randomly plays Steve Harrington's screams TEST | Elephant greenscreen effect</p>
-<button id="playBtn">Play Random Sound</button>
+<button id="playBtn">Make Steve Scream!</button>
 
 <script>
 // List of audio file URLs (replace with your actual audio file paths)
