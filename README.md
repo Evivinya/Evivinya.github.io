@@ -9,7 +9,6 @@
 <button id="playBtn">Make Steve Scream!</button>
 
 <script>
-// List of audio file URLs (replace with your actual audio file paths)
 const sounds = [
     'Audio/steveah1.mp3',
     'Audio/steveah2.mp3',
